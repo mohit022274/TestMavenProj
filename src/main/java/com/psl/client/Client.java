@@ -46,6 +46,8 @@ public class Client {
 //		System.out.println("Done retrieving employees");
 //		
 //		
+		System.out.println("Demo jenkins");
+		
 		Performer p=(Performer)context.getBean("performer");
 		p.perform();   	//primary 
 	}
